@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Weather-App Webpage",
+    "desc": "Fully functional Weather forecaste webpage. Build using HTML, TailwindCSS,JavaScript and Weather API",
+    "image": "weather",
+    "category": "Api website",
+    "links": {
+      "view": "https://ravigitacc87.github.io/Weather-App/",
+      "code": "https://github.com/Ravigitacc87/Weather-App"
+    }
+  },
+  {
+    "name": "YouTube Clone Using Api",
+    "desc": "Fully functional YouTube clone using YouTube Api webpage. Build using HTML, CSS,JavaScript and YouTube API",
+    "image": "yt-api",
+    "category": "Api website",
+    "links": {
+      "view": "https://ravigitacc87.github.io/Youtube-With-Api/",
+      "code": "https://github.com/Ravigitacc87/Youtube-With-Api"
+    }
+  },
+  {
+    "name": "QRCode Generator",
+    "desc": "Fully functional QRCode Generator webpage. Build using HTML,Tailwind CSS and JavaScript for creating QR Codes For Text or Url",
+    "image": "Qr",
+    "category": "Api website",
+    "links": {
+      "view": "https://ravigitacc87.github.io/QRCode-generator/",
+      "code": "https://github.com/Ravigitacc87/QRCode-generator"
+    }
+  },
+  {
+    "name": "Rock Paper Scissor Game",
+    "desc": "Created Rock paper scissor game using HTML, CSS and JAVASCRIPT that help in logic building",
+    "image": "rock paper scissor",
+    "category": "basicweb",
+    "links": {
+      "view": "https://ravigitacc87.github.io/Rock-paper-scissor/",
+      "code": "https://github.com/Ravigitacc87/Rock-paper-scissor"
+    }
+  },
+  {
+    "name": "Tic Tac Toe Game",
+    "desc": "Created Tic tac toe game using HTML, CSS and JAVASCRIPT that help in logic building",
+    "image": "tic tack toe",
+    "category": "basicweb",
+    "links": {
+      "view": "https://ravigitacc87.github.io/Tic-tac-toe/",
+      "code": "https://github.com/Ravigitacc87/Tic-tac-toe"
+    }
+  },
+  {
+    "name": "Dynamic Javascript card",
+    "desc": "Created Dynamic Javascript card using HTML, CSS and JAVASCRIP. Build using Dom manipulation and can be edited and deleted",
+    "image": "js-card",
+    "category": "basicweb",
+    "links": {
+      "view": "https://ravigitacc87.github.io/Create-Javascript-card/",
+      "code": "https://github.com/Ravigitacc87/Create-Javascript-card"
+    }
+  },
+  {
+    "name": "Text Style Editor",
+    "desc": "Created Text Style Editor using HTML, CSS and PHP. Build using Php",
+    "image": "text-editor",
+    "category": "Php",
+    "links": {
+      "view": "https://ravigitacc87.github.io/Create-Javascript-card/",
+      "code": "https://github.com/Ravigitacc87/Create-Javascript-card"
+    }
+  },
+  {
+    "name": "YouTube Clone",
+    "desc": "Created A clone of youtube using HTML, CSS and JAVASCRIPT with responsive webpage",
+    "image": "yt-clone",
+    "category": "basicweb",
+    "links": {
+      "view": "https://ravigitacc87.github.io/YouTube-clone/",
+      "code": "https://github.com/Ravigitacc87/YouTube-clone"
+    }
+  }
+ 
+]
