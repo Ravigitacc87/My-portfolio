@@ -23,7 +23,7 @@ Welcome to my personal portfolio project! 🎨💻 This responsive and interacti
 
 ## Demo  
 
-Check out the live demo [here](#). *(Add your live URL link if hosted)*  
+Check out the live demo [here](https://mypersonalportfolio87.netlify.app/). *(Add your live URL link if hosted)*  
 
 ## Installation  
 
