@@ -1,0 +1,67 @@
+[
+    {
+        "name": "HTML5",
+        "icon": "./assets/images/skills/icons8-html-48.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "./assets/images/skills/icons8-css3-48.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "./assets/images/skills/icons8-js-48.png"
+    },  
+    {
+        "name": "TailwindCSS",
+        "icon": "./assets/images/skills/icons8-tailwind-css-48.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "./assets/images/skills/icons8-bootstrap-48.png"
+    },
+   
+    {
+        "name": "PHP",
+        "icon": "./assets/images/skills/icons8-php-48.png"
+    },   
+    {
+        "name": "C",
+        "icon": "./assets/images/skills/icons8-c-programming-48.png"
+    },
+    {
+        "name": "C++",
+        "icon": "./assets/images/skills/icons8-c++-48.png"
+    },
+    {
+        "name": "C Sharp",
+        "icon": "./assets/images/skills/icons8-c-sharp-logo-48.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "./assets/images/skills/icons8-mysql-logo-48.png"   
+    },   
+    {
+        "name": "Netlify",
+        "icon": "./assets/images/skills/icons8-netlify-48.png"
+    },   
+    {
+        "name": "GitHub",
+        "icon": "./assets/images/skills/icons8-github-48.png"
+    },
+    {
+        "name": "WordPress",
+        "icon": "./assets/images/skills/icons8-wordpress-48.png"  
+    },    
+    {
+        "name": "Arduino Uno",
+        "icon": "./assets/images/skills/icons8-arduino-48.png"  
+    },    
+    {
+        "name": "Visual Studio",
+        "icon": "./assets/images/skills/icons8-visual-studio-48.png"  
+    },    
+    {
+        "name": "VS Code",
+        "icon": "./assets/images/skills/icons8-visual-studio-code-2019-48.png"  
+    }    
+]
